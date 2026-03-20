@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @migel-new
-- 👀 I’m interested in machine learning, cyber securiTy and IoT
+- 👀 I’m interested in machine learning, and IoT
 - 🌱 I’m currently learning IoT and programing language 
 - 
 
